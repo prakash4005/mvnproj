@@ -7,15 +7,15 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Good day DEVOPS.....</h1>
+	<h1> B@LU THE BOSS.....</h1>
+        <h1> PRAKASH THE INVISIBLE MAN.....</h1>
+	<h1> HEMA THE DIDI.....</h1>
+        <h1> SONALI THE AQUA WOMAN.....</h1>
+        <h1> BHARATHI THE WONDER WOMAN.....</h1>
+        <h1> ARSHIYA THE  DEVIL.....</h1>
 
 
-<table width="50%" bgcolor="pink" align="center" border="2">
+<table width="20%" bgcolor="Red" align="Right" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
